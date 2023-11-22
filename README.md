@@ -1,4 +1,4 @@
 # Fantastic 4+1
 
-Ez egy fél éves projekt volt, melyben 4-en dolgoztunk együtt a scrum módszertant használva, hogy egy raktárt automatizálását implementáljuk.
-A raktár először is feltölti magát termékekkel, majd a rendelések alapján kis robotok összeszedik a termékeket, és elszállítják őket a végállomásukhoz, mindezt a legoptimálisabb úton téve, anélkül, hogy ütköznének.
+
+Fél éves projekt során 4 fős csapatként dolgoztunk együtt, alkalmazva a scrum módszertant egy raktár automatizálási projekt keretében. A raktár először termékekkel tölti fel magát, majd rendelések alapján kis robotok automatikusan összegyűjtik a termékeket és optimális úton szállítják el őket a végállomásukhoz, ütközések elkerülésével. A projekt során aktívan részt vettem a tesztelésben, biztosítva, hogy a rendszer zavartalanul működjön, és a robotok hatékonyan navigáljanak az optimális útvonalakon.
